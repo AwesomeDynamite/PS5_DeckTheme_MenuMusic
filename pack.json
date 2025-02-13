@@ -1,0 +1,10 @@
+{
+  "name": "PS5_MenuMusic",
+  "description": "The PS5 Menu Music.",
+  "author": "AwesomeDynamite",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
